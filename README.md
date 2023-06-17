@@ -1,4 +1,4 @@
-Joe Chen 的写作规范 & 中文技术文档的写作规范。
+# Joe Chen 的写作规范 & 中文技术文档的写作规范。
 
 ## 目录
 
@@ -13,7 +13,7 @@ Joe Chen 的写作规范 & 中文技术文档的写作规范。
 ## Joe Chen 的写作风格规范
 
 - [中文写作风格](./joechen-writing.md)
-- [English writing style]()
+- [English writing style](./joechen-writing-en.md)
 
 ## License
 
